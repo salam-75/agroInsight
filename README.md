@@ -1,4 +1,4 @@
-# agroInsight
+﻿# agroInsight
 
 AgroInsight is a mobile-first crop diagnosis starter with a FastAPI service, a React/Vite client, and a TensorFlow/Keras training scaffold. It intentionally does **not** claim to contain a trained model: the prediction API returns an explicit `model_unavailable` placeholder until a compatible artifact is installed.
 
